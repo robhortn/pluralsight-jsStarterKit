@@ -1,3 +1,6 @@
 language: node_js
 node_js:
 - "6"
+
+# Removed this since its essentially for Unix based testing.  And I just liked Appveyor better.
+# https://travis-ci.org/robhortn/pluralsight-jsStarterKit/builds
